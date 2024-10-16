@@ -1,9 +1,10 @@
 # COVID19_Analysis
-Project Overview:
+
+## Project Overview:
 
 This project analyzed COVID-19 data from Our World in Data, focusing on confirmed cases, deaths, vaccinations, and socio-economic indicators. Data was processed using SQL, and insights were visualized with a Tableau dashboard.
 
-Tools Used:
+## Tools Used:
 
 SQL: For data extraction, cleaning, and transformation.
 SQL Server Management Studio (SSMS): For database management and data exploration.
