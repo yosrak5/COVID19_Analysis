@@ -6,14 +6,16 @@ This project analyzed COVID-19 data from Our World in Data, focusing on confirme
 
 ## Tools Used:
 
-- ** SQL: For data extraction, cleaning, and transformation.
-- ** SQL Server Management Studio (SSMS): For database management and data exploration.
-- ** Tableau: To create interactive dashboards with key insights.
-- ** Excel: Initial data format for exploration.
+- SQL: For data extraction, cleaning, and transformation.
+- SQL Server Management Studio (SSMS): For database management and data exploration.
+- Tableau: To create interactive dashboards with key insights.
+- Excel: Initial data format for exploration.
 
-## Data Exploration: Using SQL, the dataset was structured into tables for confirmed cases, deaths, and vaccinations. Key metrics like total cases, deaths, and vaccination rates were analyzed. Comparative analyses, such as case-to-death ratios by country, were also conducted.
+## Data Exploration: 
+Using SQL, the dataset was structured into tables for confirmed cases, deaths, and vaccinations. Key metrics like total cases, deaths, and vaccination rates were analyzed. Comparative analyses, such as case-to-death ratios by country, were also conducted.
 
-## Tableau Dashboard: The dashboard visualizes:
+## Tableau Dashboard: 
+The dashboard visualizes:
 
 Total cases, deaths, and vaccines administered
 Trends by region over time
